@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rnadjqaim
-- 👀 I’m interested in DevOps Engineering and Cloud Computing 
-- 🌱 I’m currently learning DevOps tools
+Hello !
+
+my name is Rnad Abu Jqaim , im intrested of python programming and Devops Engineering
 
 - 📫 How to reach me via linedlin : https://www.linkedin.com/in/rnad-jqaim
 
